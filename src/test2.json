@@ -1,0 +1,14 @@
+{ "columns":14,
+ "image":"assets\/MegaPixelArt32x32pxIcons_SpriteSheet.png",
+ "imageheight":1152,
+ "imagewidth":448,
+ "margin":0,
+ "name":"test2",
+ "spacing":0,
+ "tilecount":504,
+ "tiledversion":"1.7.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.6"
+}

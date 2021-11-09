@@ -1,0 +1,24 @@
+{ "columns":0,
+ "grid":
+    {
+     "height":1,
+     "orientation":"orthogonal",
+     "width":1
+    },
+ "margin":0,
+ "name":"test",
+ "spacing":0,
+ "tilecount":1,
+ "tiledversion":"1.7.2",
+ "tileheight":448,
+ "tiles":[
+        {
+         "id":0,
+         "image":"..\/..\/Downloads\/TileSet_V1.png",
+         "imageheight":448,
+         "imagewidth":256
+        }],
+ "tilewidth":256,
+ "type":"tileset",
+ "version":"1.6"
+}
